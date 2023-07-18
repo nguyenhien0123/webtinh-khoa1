@@ -237,16 +237,12 @@
   font-size: 29px;
   margin-left: 17px;
 }
-/* .content ul li button h5:hover{
-  color: #1e2832;
-} */
-/*  */
+
 .product .img-product {
   width: 442px;
   height: 562px;
   position: relative;
 }
-
 .borders {
   width: 424px;
   height: 542px;
@@ -256,7 +252,6 @@
   bottom: 0;
   right: 0;
 }
-
 .product .img-product img {
   border-radius: 160px 0;
   position: absolute;
@@ -272,8 +267,7 @@ transition: .3s linear;
   top: 614px;
   right: 1800px;
 }
-
-.frame-2 img {
+.frame-2 img{
   position: absolute;
   left: 1750.61px;
   top: 405.97px;
